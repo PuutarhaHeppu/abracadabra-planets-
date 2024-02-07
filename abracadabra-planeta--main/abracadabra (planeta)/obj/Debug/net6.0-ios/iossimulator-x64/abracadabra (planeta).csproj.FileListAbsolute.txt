@@ -1,0 +1,78 @@
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\build-signature\signature
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.inputs
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.inputs
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.inputs
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.stamp
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\earth.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\earth@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\earth@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\jupiter.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\jupiter@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\jupiter@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\mars.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\mars@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\mars@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\mercury.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\mercury@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\mercury@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\neptune.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\neptune@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\neptune@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\imgback.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\imgexplore.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\imgfavorite.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\imgmenu.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\imgsearch.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\saturn.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\saturn@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\saturn@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\splash.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\uranus.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\uranus@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\uranus@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\venus.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\venus@2x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\venus@3x.png
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.stamp
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.stamp
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\times new roman bold italic.ttf
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\times new roman bold.ttf
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\times new roman italic.ttf
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\f\times new roman.ttf
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\_ProcessedContentPath.items
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\abracadabra (planeta).csproj.AssemblyReference.cache
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\abracadabra (planeta).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\abracadabra (planeta).AssemblyInfoInputs.cache
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\abracadabra (planeta).AssemblyInfo.cs
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\abracadabra (planeta).csproj.CoreCompileInputs.cache
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\abracadabra (planeta).dll
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\refint\abracadabra (planeta).dll
+C:\Users\opilane\Downloads\abracadabra-planeta-\abracadabra-planeta--main\abracadabra (planeta)\obj\Debug\net6.0-ios\iossimulator-x64\abracadabra (planeta).pdb
