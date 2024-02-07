@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\Downloads\\abracadabra-planeta-\\abracadabra-planeta--main\\abracadabra (planeta)\\abracadabra (planeta).csproj": {}
+    "C:\\Users\\opilane\\Source\\Repos\\abracadabra-planets-\\abracadabra-planeta--main\\abracadabra (planeta)\\abracadabra (planeta).csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\Downloads\\abracadabra-planeta-\\abracadabra-planeta--main\\abracadabra (planeta)\\abracadabra (planeta).csproj": {
+    "C:\\Users\\opilane\\Source\\Repos\\abracadabra-planets-\\abracadabra-planeta--main\\abracadabra (planeta)\\abracadabra (planeta).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\Downloads\\abracadabra-planeta-\\abracadabra-planeta--main\\abracadabra (planeta)\\abracadabra (planeta).csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\abracadabra-planets-\\abracadabra-planeta--main\\abracadabra (planeta)\\abracadabra (planeta).csproj",
         "projectName": "abracadabra (planeta)",
-        "projectPath": "C:\\Users\\opilane\\Downloads\\abracadabra-planeta-\\abracadabra-planeta--main\\abracadabra (planeta)\\abracadabra (planeta).csproj",
+        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\abracadabra-planets-\\abracadabra-planeta--main\\abracadabra (planeta)\\abracadabra (planeta).csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\Downloads\\abracadabra-planeta-\\abracadabra-planeta--main\\abracadabra (planeta)\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\abracadabra-planets-\\abracadabra-planeta--main\\abracadabra (planeta)\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zy8bcIZxuWU7xYvMQaVc+6xdjiVIVrF5MnTuokbLtAAHgTm5kE4fctE7e/vshJB6ErkBjsa1Zw7bV8ObhHe5Jw==",
+  "dgSpecHash": "OpVZci8kPgEDKFb9Kjh5aYEtUoijdPtdJywwbjx6/DpMGPQhaDrq1Tcaq+1BzZ98JHPGvzRXJn/aLr6gxYzE2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\Downloads\\abracadabra-planeta-\\abracadabra-planeta--main\\abracadabra (planeta)\\abracadabra (planeta).csproj",
+  "projectFilePath": "C:\\Users\\opilane\\Source\\Repos\\abracadabra-planets-\\abracadabra-planeta--main\\abracadabra (planeta)\\abracadabra (planeta).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
