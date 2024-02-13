@@ -17,7 +17,7 @@ namespace abracadabra__planeta_.Services
                 "Similarly to the Earth's Moon, Mercury's surface displays an expansive rupes system generated from thrust faults and bright ray systems formed by impact event remnants.",
                 AccentColorStart = Color.FromArgb("#353535"),
                 AccentColorEnd = Color.FromArgb("#8d9098"),
-                images = new()
+                Images = new()
                 {
                     "https://cdn.theatlantic.com/thumbor/D15rQggf6357X1-u6VpTD2N1yQE=/0x27:1041x613/976x549/media/img/mt/2017/04/MercuryImage/original.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/73_carousel_mercury_2.jpg",
@@ -39,7 +39,7 @@ namespace abracadabra__planeta_.Services
                 "in broad daylight.",
                 AccentColorStart = Color.FromArgb("#353535"),
                 AccentColorEnd = Color.FromArgb("#8d9098"),
-                images = new()
+                Images = new()
                 {
                     "https://solarsystem.nasa.gov/system/feature_items/images/143_Venus-800x600.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/147_Hubble_Venus_Clouds-800x600.jpg",
@@ -64,7 +64,7 @@ namespace abracadabra__planeta_.Services
                 "atmospheric water.",
                 AccentColorStart = Color.FromArgb("#353535"),
                 AccentColorEnd = Color.FromArgb("#8d9098"),
-                images = new()
+                Images = new()
                 {
                     "https://solarsystem.nasa.gov/system/feature_items/images/68_epicearthmoonstill_800.png",
                     "https://solarsystem.nasa.gov/system/feature_items/images/69_earth_carousel_3.jpg",
@@ -84,7 +84,7 @@ namespace abracadabra__planeta_.Services
                             "that it was even more active in the past.",
                 AccentColorStart = Color.FromArgb("#353535"),
                 AccentColorEnd = Color.FromArgb("#8d9098"),
-                images = new()
+                Images = new()
                 {
                     "https://researchfdi.com/wp-content/uploads/2021/10/8944_1-PIA24546-1280.jpeg",
                     "https://www.worldatlas.com/r/w1300-q80/upload/bb/c3/32/shutterstock-1041249343.jpg",
@@ -104,7 +104,7 @@ namespace abracadabra__planeta_.Services
                 "less than one one-thousandth the mass of the Sun.",
                 AccentColorStart = Color.FromArgb("#353535"),
                 AccentColorEnd = Color.FromArgb("#8d9098"),
-                images = new()
+                Images = new()
                 {
                     "https://solarsystem.nasa.gov/system/feature_items/images/11_Full_Jupiter-800.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/10_Jupiter_Io_Juno-800.jpg",
@@ -125,7 +125,7 @@ namespace abracadabra__planeta_.Services
                             "density of Earth, but is over 95 times more massive.",
                 AccentColorStart = Color.FromArgb("#353535"),
                 AccentColorEnd = Color.FromArgb("#8d9098"),
-                images = new()
+                Images = new()
                 {
                     "https://solarsystem.nasa.gov/system/feature_items/images/151_saturn_carousel_1.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/152_saturn_carousel_2.jpg",
@@ -147,7 +147,7 @@ namespace abracadabra__planeta_.Services
                 "planetary mass in the Solar System.",
                 AccentColorStart = Color.FromArgb("#353535"),
                 AccentColorEnd = Color.FromArgb("#8d9098"),
-                images = new()
+                Images = new()
                 {
                     "https://solarsystem.nasa.gov/system/feature_items/images/88_carousel_uranus.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/89_uranus_carousel_1.jpg",
@@ -168,7 +168,7 @@ namespace abracadabra__planeta_.Services
                 "massive than its near-twin Uranus.",
                 AccentColorStart = Color.FromArgb("#353535"),
                 AccentColorEnd = Color.FromArgb("#8d9098"),
-                images = new()
+                Images = new()
                 {
                     "https://solarsystem.nasa.gov/system/feature_items/images/82_carousel_neptune_1.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/86_carousel_neptune_5.jpg",
@@ -185,7 +185,7 @@ namespace abracadabra__planeta_.Services
             return randomizedPlanets.Take(2).ToList();
         }
 
-        public static List<Planet> GetAllPlanet()
+        public static List<Planet> GetAllPlanets()
             => planets;
 
     }

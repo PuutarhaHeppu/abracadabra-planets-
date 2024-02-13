@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("abracadabra (planeta)")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("abracadabra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("abracadabra (planeta)")]
-[assembly: System.Reflection.AssemblyTitleAttribute("abracadabra (planeta)")]
+[assembly: System.Reflection.AssemblyProductAttribute("abracadabra")]
+[assembly: System.Reflection.AssemblyTitleAttribute("abracadabra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS16.1")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS14.2")]

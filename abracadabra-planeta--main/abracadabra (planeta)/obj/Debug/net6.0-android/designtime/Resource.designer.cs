@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("abracadabra__planeta_.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("abracadabra.Resource", IsApplication=true)]
 
-namespace abracadabra__planeta_
+namespace abracadabra
 {
 	
 	
@@ -25,65 +25,65 @@ namespace abracadabra__planeta_
 		
 		public static void UpdateIdValues()
 		{
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.actionBarSize = global::abracadabra__planeta_.Resource.Attribute.actionBarSize;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.collectionViewStyle = global::abracadabra__planeta_.Resource.Attribute.collectionViewStyle;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.scrollViewStyle = global::abracadabra__planeta_.Resource.Attribute.scrollViewStyle;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Drawable.abc_ic_clear_material = global::abracadabra__planeta_.Resource.Drawable.abc_ic_clear_material;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Drawable.abc_ic_search_api_material = global::abracadabra__planeta_.Resource.Drawable.abc_ic_search_api_material;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Layout.tabbar = global::abracadabra__planeta_.Resource.Layout.tabbar;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Layout.toolbar = global::abracadabra__planeta_.Resource.Layout.toolbar;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Style.collectionViewTheme = global::abracadabra__planeta_.Resource.Style.collectionViewTheme;
-			global::Microsoft.Maui.Controls.Compatibility.Resource.Style.scrollViewTheme = global::abracadabra__planeta_.Resource.Style.scrollViewTheme;
-			global::Microsoft.Maui.Controls.Resource.Animation.enterfromleft = global::abracadabra__planeta_.Resource.Animation.enterfromleft;
-			global::Microsoft.Maui.Controls.Resource.Animation.enterfromright = global::abracadabra__planeta_.Resource.Animation.enterfromright;
-			global::Microsoft.Maui.Controls.Resource.Animation.exittoleft = global::abracadabra__planeta_.Resource.Animation.exittoleft;
-			global::Microsoft.Maui.Controls.Resource.Animation.exittoright = global::abracadabra__planeta_.Resource.Animation.exittoright;
-			global::Microsoft.Maui.Controls.Resource.Attribute.actionBarSize = global::abracadabra__planeta_.Resource.Attribute.actionBarSize;
-			global::Microsoft.Maui.Controls.Resource.Attribute.appBarLayoutStyle = global::abracadabra__planeta_.Resource.Attribute.appBarLayoutStyle;
-			global::Microsoft.Maui.Controls.Resource.Attribute.bottomNavigationViewStyle = global::abracadabra__planeta_.Resource.Attribute.bottomNavigationViewStyle;
-			global::Microsoft.Maui.Controls.Resource.Attribute.toolbarStyle = global::abracadabra__planeta_.Resource.Attribute.toolbarStyle;
-			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_clear_material = global::abracadabra__planeta_.Resource.Drawable.abc_ic_clear_material;
-			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_menu_overflow_material = global::abracadabra__planeta_.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_search_api_material = global::abracadabra__planeta_.Resource.Drawable.abc_ic_search_api_material;
-			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_bottomtabs = global::abracadabra__planeta_.Resource.Id.navigationlayout_bottomtabs;
-			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_content = global::abracadabra__planeta_.Resource.Id.navigationlayout_content;
-			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_toptabs = global::abracadabra__planeta_.Resource.Id.navigationlayout_toptabs;
-			global::Microsoft.Maui.Controls.Resource.Id.shellcontent_appbar = global::abracadabra__planeta_.Resource.Id.shellcontent_appbar;
-			global::Microsoft.Maui.Controls.Resource.Id.flyoutcontent_appbar = global::abracadabra__planeta_.Resource.Id.flyoutcontent_appbar;
-			global::Microsoft.Maui.Controls.Resource.Layout.fragment_backstack = global::abracadabra__planeta_.Resource.Layout.fragment_backstack;
-			global::Microsoft.Maui.Controls.Resource.Layout.flyoutcontent = global::abracadabra__planeta_.Resource.Layout.flyoutcontent;
-			global::Microsoft.Maui.Controls.Resource.Layout.shellcontent = global::abracadabra__planeta_.Resource.Layout.shellcontent;
-			global::Microsoft.Maui.Controls.Resource.Dimension.design_bottom_navigation_height = global::abracadabra__planeta_.Resource.Dimension.design_bottom_navigation_height;
-			global::Microsoft.Maui.Controls.Resource.Style.ThemeOverlay_AppCompat_Light = global::abracadabra__planeta_.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Microsoft.Maui.Controls.Resource.Styleable.Toolbar = global::abracadabra__planeta_.Resource.Styleable.Toolbar;
-			global::Microsoft.Maui.Controls.Resource.Styleable.Toolbar_titleTextColor = global::abracadabra__planeta_.Resource.Styleable.Toolbar_titleTextColor;
-			global::Microsoft.Maui.Controls.Resource.String.nav_app_bar_navigate_up_description = global::abracadabra__planeta_.Resource.String.nav_app_bar_navigate_up_description;
-			global::Microsoft.Maui.Controls.Resource.String.nav_app_bar_open_drawer_description = global::abracadabra__planeta_.Resource.String.nav_app_bar_open_drawer_description;
-			global::Microsoft.Maui.Controls.Resource.String.overflow_tab_title = global::abracadabra__planeta_.Resource.String.overflow_tab_title;
-			global::Microsoft.Maui.Resource.Attribute.actionBarSize = global::abracadabra__planeta_.Resource.Attribute.actionBarSize;
-			global::Microsoft.Maui.Resource.Attribute.colorSwitchThumbNormal = global::abracadabra__planeta_.Resource.Attribute.colorSwitchThumbNormal;
-			global::Microsoft.Maui.Resource.Attribute.maui_splash = global::abracadabra__planeta_.Resource.Attribute.maui_splash;
-			global::Microsoft.Maui.Resource.Attribute.scrollViewStyle = global::abracadabra__planeta_.Resource.Attribute.scrollViewStyle;
-			global::Microsoft.Maui.Resource.Animation.nav_default_enter_anim = global::abracadabra__planeta_.Resource.Animation.nav_default_enter_anim;
-			global::Microsoft.Maui.Resource.Animation.nav_default_exit_anim = global::abracadabra__planeta_.Resource.Animation.nav_default_exit_anim;
-			global::Microsoft.Maui.Resource.Animation.nav_default_pop_enter_anim = global::abracadabra__planeta_.Resource.Animation.nav_default_pop_enter_anim;
-			global::Microsoft.Maui.Resource.Animation.nav_default_pop_exit_anim = global::abracadabra__planeta_.Resource.Animation.nav_default_pop_exit_anim;
-			global::Microsoft.Maui.Resource.Drawable.abc_ic_clear_material = global::abracadabra__planeta_.Resource.Drawable.abc_ic_clear_material;
-			global::Microsoft.Maui.Resource.Id.navigation_layout = global::abracadabra__planeta_.Resource.Id.navigation_layout;
-			global::Microsoft.Maui.Resource.Id.navigationlayout_appbar = global::abracadabra__planeta_.Resource.Id.navigationlayout_appbar;
-			global::Microsoft.Maui.Resource.Id.navigationlayout_bottomtabs = global::abracadabra__planeta_.Resource.Id.navigationlayout_bottomtabs;
-			global::Microsoft.Maui.Resource.Id.navigationlayout_content = global::abracadabra__planeta_.Resource.Id.navigationlayout_content;
-			global::Microsoft.Maui.Resource.Id.navigationlayout_toptabs = global::abracadabra__planeta_.Resource.Id.navigationlayout_toptabs;
-			global::Microsoft.Maui.Resource.Id.nav_host = global::abracadabra__planeta_.Resource.Id.nav_host;
-			global::Microsoft.Maui.Resource.Id.nav_host_fragment_container = global::abracadabra__planeta_.Resource.Id.nav_host_fragment_container;
-			global::Microsoft.Maui.Resource.Id.search_button = global::abracadabra__planeta_.Resource.Id.search_button;
-			global::Microsoft.Maui.Resource.Id.search_close_btn = global::abracadabra__planeta_.Resource.Id.search_close_btn;
-			global::Microsoft.Maui.Resource.Layout.drawer_layout = global::abracadabra__planeta_.Resource.Layout.drawer_layout;
-			global::Microsoft.Maui.Resource.Layout.navigationlayout = global::abracadabra__planeta_.Resource.Layout.navigationlayout;
-			global::Microsoft.Maui.Resource.Layout.fragment_backstack = global::abracadabra__planeta_.Resource.Layout.fragment_backstack;
-			global::Microsoft.Maui.Resource.Style.Maui_MainTheme_NoActionBar = global::abracadabra__planeta_.Resource.Style.Maui_MainTheme_NoActionBar;
-			global::Microsoft.Maui.Resource.Style.ThemeOverlay_AppCompat_Light = global::abracadabra__planeta_.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Microsoft.Maui.Resource.Style.scrollViewTheme = global::abracadabra__planeta_.Resource.Style.scrollViewTheme;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.actionBarSize = global::abracadabra.Resource.Attribute.actionBarSize;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.collectionViewStyle = global::abracadabra.Resource.Attribute.collectionViewStyle;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.scrollViewStyle = global::abracadabra.Resource.Attribute.scrollViewStyle;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Drawable.abc_ic_clear_material = global::abracadabra.Resource.Drawable.abc_ic_clear_material;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Drawable.abc_ic_search_api_material = global::abracadabra.Resource.Drawable.abc_ic_search_api_material;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Layout.tabbar = global::abracadabra.Resource.Layout.tabbar;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Layout.toolbar = global::abracadabra.Resource.Layout.toolbar;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Style.collectionViewTheme = global::abracadabra.Resource.Style.collectionViewTheme;
+			global::Microsoft.Maui.Controls.Compatibility.Resource.Style.scrollViewTheme = global::abracadabra.Resource.Style.scrollViewTheme;
+			global::Microsoft.Maui.Controls.Resource.Animation.enterfromleft = global::abracadabra.Resource.Animation.enterfromleft;
+			global::Microsoft.Maui.Controls.Resource.Animation.enterfromright = global::abracadabra.Resource.Animation.enterfromright;
+			global::Microsoft.Maui.Controls.Resource.Animation.exittoleft = global::abracadabra.Resource.Animation.exittoleft;
+			global::Microsoft.Maui.Controls.Resource.Animation.exittoright = global::abracadabra.Resource.Animation.exittoright;
+			global::Microsoft.Maui.Controls.Resource.Attribute.actionBarSize = global::abracadabra.Resource.Attribute.actionBarSize;
+			global::Microsoft.Maui.Controls.Resource.Attribute.appBarLayoutStyle = global::abracadabra.Resource.Attribute.appBarLayoutStyle;
+			global::Microsoft.Maui.Controls.Resource.Attribute.bottomNavigationViewStyle = global::abracadabra.Resource.Attribute.bottomNavigationViewStyle;
+			global::Microsoft.Maui.Controls.Resource.Attribute.toolbarStyle = global::abracadabra.Resource.Attribute.toolbarStyle;
+			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_clear_material = global::abracadabra.Resource.Drawable.abc_ic_clear_material;
+			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_menu_overflow_material = global::abracadabra.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Microsoft.Maui.Controls.Resource.Drawable.abc_ic_search_api_material = global::abracadabra.Resource.Drawable.abc_ic_search_api_material;
+			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_bottomtabs = global::abracadabra.Resource.Id.navigationlayout_bottomtabs;
+			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_content = global::abracadabra.Resource.Id.navigationlayout_content;
+			global::Microsoft.Maui.Controls.Resource.Id.navigationlayout_toptabs = global::abracadabra.Resource.Id.navigationlayout_toptabs;
+			global::Microsoft.Maui.Controls.Resource.Id.shellcontent_appbar = global::abracadabra.Resource.Id.shellcontent_appbar;
+			global::Microsoft.Maui.Controls.Resource.Id.flyoutcontent_appbar = global::abracadabra.Resource.Id.flyoutcontent_appbar;
+			global::Microsoft.Maui.Controls.Resource.Layout.fragment_backstack = global::abracadabra.Resource.Layout.fragment_backstack;
+			global::Microsoft.Maui.Controls.Resource.Layout.flyoutcontent = global::abracadabra.Resource.Layout.flyoutcontent;
+			global::Microsoft.Maui.Controls.Resource.Layout.shellcontent = global::abracadabra.Resource.Layout.shellcontent;
+			global::Microsoft.Maui.Controls.Resource.Dimension.design_bottom_navigation_height = global::abracadabra.Resource.Dimension.design_bottom_navigation_height;
+			global::Microsoft.Maui.Controls.Resource.Style.ThemeOverlay_AppCompat_Light = global::abracadabra.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Microsoft.Maui.Controls.Resource.Styleable.Toolbar = global::abracadabra.Resource.Styleable.Toolbar;
+			global::Microsoft.Maui.Controls.Resource.Styleable.Toolbar_titleTextColor = global::abracadabra.Resource.Styleable.Toolbar_titleTextColor;
+			global::Microsoft.Maui.Controls.Resource.String.nav_app_bar_navigate_up_description = global::abracadabra.Resource.String.nav_app_bar_navigate_up_description;
+			global::Microsoft.Maui.Controls.Resource.String.nav_app_bar_open_drawer_description = global::abracadabra.Resource.String.nav_app_bar_open_drawer_description;
+			global::Microsoft.Maui.Controls.Resource.String.overflow_tab_title = global::abracadabra.Resource.String.overflow_tab_title;
+			global::Microsoft.Maui.Resource.Attribute.actionBarSize = global::abracadabra.Resource.Attribute.actionBarSize;
+			global::Microsoft.Maui.Resource.Attribute.colorSwitchThumbNormal = global::abracadabra.Resource.Attribute.colorSwitchThumbNormal;
+			global::Microsoft.Maui.Resource.Attribute.maui_splash = global::abracadabra.Resource.Attribute.maui_splash;
+			global::Microsoft.Maui.Resource.Attribute.scrollViewStyle = global::abracadabra.Resource.Attribute.scrollViewStyle;
+			global::Microsoft.Maui.Resource.Animation.nav_default_enter_anim = global::abracadabra.Resource.Animation.nav_default_enter_anim;
+			global::Microsoft.Maui.Resource.Animation.nav_default_exit_anim = global::abracadabra.Resource.Animation.nav_default_exit_anim;
+			global::Microsoft.Maui.Resource.Animation.nav_default_pop_enter_anim = global::abracadabra.Resource.Animation.nav_default_pop_enter_anim;
+			global::Microsoft.Maui.Resource.Animation.nav_default_pop_exit_anim = global::abracadabra.Resource.Animation.nav_default_pop_exit_anim;
+			global::Microsoft.Maui.Resource.Drawable.abc_ic_clear_material = global::abracadabra.Resource.Drawable.abc_ic_clear_material;
+			global::Microsoft.Maui.Resource.Id.navigation_layout = global::abracadabra.Resource.Id.navigation_layout;
+			global::Microsoft.Maui.Resource.Id.navigationlayout_appbar = global::abracadabra.Resource.Id.navigationlayout_appbar;
+			global::Microsoft.Maui.Resource.Id.navigationlayout_bottomtabs = global::abracadabra.Resource.Id.navigationlayout_bottomtabs;
+			global::Microsoft.Maui.Resource.Id.navigationlayout_content = global::abracadabra.Resource.Id.navigationlayout_content;
+			global::Microsoft.Maui.Resource.Id.navigationlayout_toptabs = global::abracadabra.Resource.Id.navigationlayout_toptabs;
+			global::Microsoft.Maui.Resource.Id.nav_host = global::abracadabra.Resource.Id.nav_host;
+			global::Microsoft.Maui.Resource.Id.nav_host_fragment_container = global::abracadabra.Resource.Id.nav_host_fragment_container;
+			global::Microsoft.Maui.Resource.Id.search_button = global::abracadabra.Resource.Id.search_button;
+			global::Microsoft.Maui.Resource.Id.search_close_btn = global::abracadabra.Resource.Id.search_close_btn;
+			global::Microsoft.Maui.Resource.Layout.drawer_layout = global::abracadabra.Resource.Layout.drawer_layout;
+			global::Microsoft.Maui.Resource.Layout.navigationlayout = global::abracadabra.Resource.Layout.navigationlayout;
+			global::Microsoft.Maui.Resource.Layout.fragment_backstack = global::abracadabra.Resource.Layout.fragment_backstack;
+			global::Microsoft.Maui.Resource.Style.Maui_MainTheme_NoActionBar = global::abracadabra.Resource.Style.Maui_MainTheme_NoActionBar;
+			global::Microsoft.Maui.Resource.Style.ThemeOverlay_AppCompat_Light = global::abracadabra.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Microsoft.Maui.Resource.Style.scrollViewTheme = global::abracadabra.Resource.Style.scrollViewTheme;
 		}
 		
 		public partial class Animation
