@@ -8,4 +8,9 @@ public partial class PlanetDetailsPage : ContentPage
 
         this.BindingContext = planet;
 	}
+
+    async void BackButton_Clicked(object sender, EventArgs e)
+    {
+        await Navigation.PopAsync();
+    }
 }
